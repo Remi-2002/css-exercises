@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.alert-text {
+    background-color: hsl(0, 100%, 80%);
+    font-family: Verdana, "Dejavu sans", sans-serif;
+}
+
+#ronny {
+    color: hsl(240, 50%, 50%);
+    font-size: 36px;
+}
+
+#creed {
+    background-color: rgb(00, 255, 00);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.severe-alert {
+    font-size: 24px;
+}
+
